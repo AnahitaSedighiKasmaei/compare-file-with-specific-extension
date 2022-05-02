@@ -1,4 +1,4 @@
-# compare-file-with-specific-extension
+# compare file with specific extension sell programming
 A Bash script to compress all files, from a target directory hierarchy, with specific extensions, into a number of tar files
 
 Synopsis:
